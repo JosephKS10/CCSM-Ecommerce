@@ -8,10 +8,11 @@
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before running the project, make sure you have the following installed:
 
-- You have installed [Node.js](https://nodejs.org/en/) (which includes npm).
-- You have installed [Expo CLI](https://docs.expo.dev/get-started/installation/).
+- Node.js: [Download](https://nodejs.org/)
+- Expo CLI (locally): To use the local CLI instead of the global one, you can run commands prefixed with `npx expo <command>`. It's recommended, especially in SDK 46 and higher. For more info go to [Expo Docs](https://docs.expo.dev/get-started/installation/)
+- Expo Go mobile app: [iOS](https://apps.apple.com/us/app/expo-go/id982107779) / [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US)
 
 ## Installation
 

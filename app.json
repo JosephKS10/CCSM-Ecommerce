@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.josephks10.CCSMecommerce"
     },
     "web": {
       "favicon": "./assets/favicon.png"
